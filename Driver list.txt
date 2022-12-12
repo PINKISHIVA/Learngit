@@ -1,0 +1,13 @@
+DRIVER 
+
+1) Audio 
+
+2) Bluetooth and modem
+
+3) BIOS UEFI
+
+4)Camera 
+
+5) GPU
+
+6) Motherboard devices
